@@ -1,4 +1,4 @@
-# ✈️ Flights Data EDA  
+# ✈️ Flights Data EDA (Python, Matplotlib & Seaborn)
 
 ## Project Overview  
 This project explores flight data through **Exploratory Data Analysis (EDA)** to uncover insights about:  
